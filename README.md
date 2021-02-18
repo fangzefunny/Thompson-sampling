@@ -19,6 +19,7 @@ If you want to change the experimental set, find the hyperparam function and tun
 
 Russo, D., Van Roy, B., Kazerouni, A., Osband, I., & Wen, Z. (2017). A tutorial on thompson sampling. arXiv preprint arXiv:1707.02038.
 Chicago	
+
 And its corresponding github repo: https://github.com/andrecianflone/thompson
 
 Arumugam, D., & Van Roy, B. (2021). Deciding What to Learn: A Rate-Distortion Approach. arXiv preprint arXiv:2101.06197.
