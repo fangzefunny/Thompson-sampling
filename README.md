@@ -1,6 +1,6 @@
 # Thompson-sampling
 
-This is a repo that replicates the Thompson sampling (Russo et al, 2017) and rate-distortion (Arumugam, 2021).
+This is a repo that replicates the Thompson sampling (Russo et al, 2017) and rate-distortion based Thompson sampling(Arumugam, 2021).
 For purpose of getting the intuition of how these algorithms work, this repo only focuses on simple Bernoulli bandit conditon.
 
 ## Where to start 
